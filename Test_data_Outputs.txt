@@ -1,0 +1,17 @@
+Test 1 : 
+
+PLACE X-1 Y-0 F-North
+Move
+Report 
+Output: X-1 Y-0 F-North 
+
+Test 2 :
+
+PLACE X-1 Y-2 F-East 
+Move
+Move
+Left
+Move
+Report 
+Output: X-3 Y-1 F-North
+
